@@ -7,7 +7,7 @@ Propósito:
 
 Paradigma:
 
-    Ya que el propósito de este lenguaje es integrar sistema de información, se puede decir que su paradigma es "orientado a la integración".
+    Es multiparadigma, pero se puede decir que se orienta más a OOP.
 
 Fortalezas y debilidades:
 
@@ -21,7 +21,7 @@ Fortalezas y debilidades:
 
 Implementación:
 
-    Ballerina es un lenguaje híbrido que utiliza tanto la compilación como la interpretación. En Ballerina, el código fuente se compila en un formato intermedio llamado BIR (Ballerina Intermediate Representation), que luego se interpreta en tiempo de ejecución por la Ballerina Virtual Machine (BVM). Esto proporciona un equilibrio entre el rendimiento de la ejecución y la flexibilidad de desarrollo.
+    Ballerina es un lenguaje híbrido que utiliza tanto la compilación como la interpretación. El código fuente se compila en un formato intermedio llamado BIR (Ballerina Intermediate Representation) y luego se interpreta en tiempo de ejecución por la Ballerina Virtual Machine (BVM).
 
 Runtime / Máquina Virtual:
 
@@ -38,7 +38,7 @@ Usuarios notables:
 Historia:
 
     Creadores: WSO2.
-    1er Release: Versión 0.8.0, fecha desconocida.
+    1er Release: Versión 0.8.0, 2017.
     Último Release: Versión 1.3.7, fecha 24 de abril de 2023.
 
 Estado:
