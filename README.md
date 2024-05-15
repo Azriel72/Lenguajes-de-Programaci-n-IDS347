@@ -33,8 +33,12 @@ Plataformas soportadas:
 
 Usuarios notables:
 
-    Empresas que adoptan Ballerina para desarrollo y mantenimiento de servicios distribuidos en la nube.
-
+    Google
+    Walmart
+    Intel
+    Mercado Libre
+    Santander
+    
 Historia:
 
     Creadores: WSO2.
