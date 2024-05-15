@@ -7,7 +7,7 @@ Propósito:
 
 Paradigma:
 
-    Es multiparadigma, pero se puede decir que se enfoca mayormente a OOP.
+    Es multiparadigma y entre estos se encuentran: Imperativo, OOP, Reactivo y Funcional.
 
 Fortalezas y debilidades:
 
