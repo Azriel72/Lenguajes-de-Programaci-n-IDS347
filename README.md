@@ -7,7 +7,7 @@ Propósito:
 
 Paradigma:
 
-    Es multiparadigma, pero se puede decir que se orienta más a OOP.
+    Es multiparadigma, pero se puede decir que se enfoca mayormente a OOP.
 
 Fortalezas y debilidades:
 
